@@ -12,6 +12,6 @@ For the installation, please follow the guide.
 5. You can send messages as both connection has been established
 
 ## Contributors
-- Calvin
-- Jeconiah
-- Sunny
+- Calvin S. Halim
+- Jeconiah Richard
+- Sunny Jovita
